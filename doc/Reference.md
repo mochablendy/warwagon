@@ -1,0 +1,12 @@
+﻿- [ニューラルネットワークと深層学習](http://nnadl-ja.github.io/nnadl_site_ja/index.html)
+  - 教科書。
+- [強化学習入門 ～これから強化学習を学びたい人のための基礎知識～ ](http://blog.brainpad.co.jp/entry/2017/02/24/121500)
+  - モンテカルロ法は学習が早い。
+- [EMERGENT // FUTURE](https://medium.com/emergent-future)
+  - TensorFlowで強化学習をやるチュートリアル。
+- [DeepLearningで手書き数字認識Windowsアプリを作ってみた](http://blogger.chishow.com/2017/01/deeplearningwindows.html)
+  - CNTKをC#で使う方法の解説。
+- [深層学習と並ぶ人工知能の巨塔、強化学習とは一体何か](http://s0sem0y.hatenablog.com/entry/2017/04/27/043721)
+  - 「強化学習とは何か」という解説と行動評価関数の一例の説明。
+- [【ここまで分かれば概要を理解できる】強化学習問題の基本的考え方 ](http://s0sem0y.hatenablog.com/entry/2017/05/02/033033)
+  - エージェントと環境の境界の見極め方。
